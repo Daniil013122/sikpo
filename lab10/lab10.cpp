@@ -63,6 +63,6 @@ int main() {
             cout << participant.number << " " << participant.name << " " << participant.start << " " << participant.finish << " " << participant.club << endl;
         }
     }
-
     return 0;
+    //message
 }
